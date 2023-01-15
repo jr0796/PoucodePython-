@@ -1,6 +1,6 @@
 import tkinter.messagebox
 from tkinter import messagebox
-import moduloMain
+import moduloMain #importação da função 
 import customtkinter
 
 
